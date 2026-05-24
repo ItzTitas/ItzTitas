@@ -1,16 +1,3 @@
-Copy this entire thing into your `README.md` inside your special GitHub profile repository.
-
-Just replace:
-
-* `YOURUSERNAME`
-* LinkedIn
-* email if needed
-
-That’s it.
-
----
-
-````md
 <div align="center">
 
 ```txt
@@ -331,4 +318,3 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" />
 
 </div>
-````
