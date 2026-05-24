@@ -290,15 +290,17 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 
 </div>
 
+<div align="center">
+
 ```txt
  ________________________________________________
 / AI, coffee, late nights, and debugging at 2AM \
 \ sounds like a good life to me 🐈               /
  ------------------------------------------------
-        /\___/\
-       (  o o  )
-       /   *   \
-       \__\_/__/
+                /\___/\
+               (  o o  )
+               /   *   \
+               \__\_/__/
 ```
 
 </div>
