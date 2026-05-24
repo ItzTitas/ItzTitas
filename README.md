@@ -1,14 +1,18 @@
 <div align="center">
 
 ```txt
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ▄▀█ █▄▄ █░█ █ █▄░█ ▄▀█ █▄░█ █▀▄ ▄▀█ █▄░█                  ║
-║    █▀█ █▄█ █▀█ █ █░▀█ █▀█ █░▀█ █▄▀ █▀█ █░▀█                  ║
-║                                                               ║
-║         [ AI ENGINEER • BUILDER • PROBLEM SOLVER ]            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║      █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ███╗   ██╗       ║
+║     ██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗████╗  ██║       ║
+║     ███████║██████╔╝███████║██║██╔██╗ ██║███████║██╔██╗ ██║       ║
+║     ██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║██╔══██║██║╚██╗██║       ║
+║     ██║  ██║██████╔╝██║  ██║██║██║ ╚████║██║  ██║██║ ╚████║       ║
+║     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
+║                                                                    ║
+║              [ AI ENGINEER • BUILDER • PROBLEM SOLVER ]            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=F97316&center=true&vCenter=true&width=940&lines=Building+AI-powered+software+systems;Full-stack+developer+with+an+AI+focus;LLMs+%7C+NLP+%7C+Scalable+Applications;Creating+real-world+intelligent+solutions;Architecture+matters+more+than+hype" alt="Typing SVG" />
@@ -59,8 +63,8 @@ const abhinandan = {
 
     reachMe: {
         email: "titasojha13@gmail.com",
-        linkedin: "linkedin.com/in/abhinandan-ojha",
-        github: "github.com/YOURUSERNAME"
+        linkedin: "linkedin.com/in/abhinandan-ojha-66864421b",
+        github: "github.com/ItzTitas"
     },
 
     philosophy: "Build systems that solve real problems.",
@@ -197,11 +201,15 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItzTitas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTitas&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=tokyonight&hide_border=true&layout=compact)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ItzTitas&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -215,7 +223,7 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area_color=F97316&area=true&hide_border=true&theme=react-dark)](https://github.com/YOURUSERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItzTitas&bg_color=0d1117&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true)](https://github.com/ItzTitas)
 
 </div>
 
@@ -246,11 +254,11 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinandan-ojha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-ojha-66864421b/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titasojha13@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzTitas)
 
 </div>
 
@@ -282,26 +290,23 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 
 <div align="center">
 
-### `> fortune | cowsay`
+### `> fortune | catsay`
 
 </div>
 
 ```txt
- ___________________________________________
+ /\_/\\
+( o.o )
+ > ^ <
+
 < Building systems that actually matter 🚀 >
- -------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
 ```
+
+</div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=F97316&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Thanks for visiting! Let's build something impactful. 🚀**
 
