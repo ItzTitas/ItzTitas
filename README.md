@@ -1,18 +1,14 @@
 <div align="center">
 
 ```txt
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║      █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ███╗   ██╗       ║
-║     ██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗████╗  ██║       ║
-║     ███████║██████╔╝███████║██║██╔██╗ ██║███████║██╔██╗ ██║       ║
-║     ██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║██╔══██║██║╚██╗██║       ║
-║     ██║  ██║██████╔╝██║  ██║██║██║ ╚████║██║  ██║██║ ╚████║       ║
-║     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
-║                                                                    ║
-║              [ AI ENGINEER • BUILDER • PROBLEM SOLVER ]            ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    ▄▀█ █▄▄ █░█ █ █▄░█ ▄▀█ █▄░█ █▀▄ ▄▀█ █▄░█                  ║
+║    █▀█ █▄█ █▀█ █ █░▀█ █▀█ █░▀█ █▄▀ █▀█ █░▀█                  ║
+║                                                               ║
+║         [ AI ENGINEER • BUILDER • PROBLEM SOLVER ]           ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=F97316&center=true&vCenter=true&width=940&lines=Building+AI-powered+software+systems;Full-stack+developer+with+an+AI+focus;LLMs+%7C+NLP+%7C+Scalable+Applications;Creating+real-world+intelligent+solutions;Architecture+matters+more+than+hype" alt="Typing SVG" />
@@ -295,11 +291,14 @@ A cinematic movie and TV discovery platform with advanced filtering, swipeable c
 </div>
 
 ```txt
- /\_/\\
-( o.o )
- > ^ <
-
-< Building systems that actually matter 🚀 >
+ ________________________________________________
+/ AI, coffee, late nights, and debugging at 2AM \
+\ sounds like a good life to me 🐈               /
+ ------------------------------------------------
+        /\___/\
+       (  o o  )
+       /   *   \
+       \__\_/__/
 ```
 
 </div>
